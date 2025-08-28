@@ -38,7 +38,7 @@ export default function App() {
 
   return (
     <div className="flex min-h-screen w-full bg-slate-50 text-slate-900">
-      <div className="m-auto xl:scale-125">
+      <div className="m-auto xl:scale-110">
         <div className="mx-auto max-w-6xl px-4 py-6">
           {/* Header */}
           <div className="flex flex-col gap-4">
